@@ -1,0 +1,3 @@
+[submodule "Boards_SoCs_SoMs/byVendor/Toradex_res_git"]
+	path = Boards_SoCs_SoMs/byVendor/Toradex_res_git
+	url = git@github.com:richMetellus/Toradex_res_git.git
