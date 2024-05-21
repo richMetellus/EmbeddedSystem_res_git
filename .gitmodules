@@ -1,18 +1,18 @@
 [submodule "Boards_SoCs_SoMs/byVendor/Toradex_res_git"]
 	path = Boards_SoCs_SoMs/byVendor/Toradex_res_git
-	url = git@github.com:richMetellus/Toradex_res_git.git
+	url = https://github.com/richMetellus/Toradex_res_git.git
 [submodule "Boards_SoCs_SoMs/byVendor/NXP_res_git"]
 	path = Boards_SoCs_SoMs/byVendor/NXP_res_git
-	url = git@github.com:richMetellus/NXP_res_git.git
+	url = https://github.com/richMetellus/NXP_res_git.git
 [submodule "Boards_SoCs_SoMs/byVendor/TI_res_git"]
 	path = Boards_SoCs_SoMs/byVendor/TI_res_git
-	url = git@github.com:richMetellus/TI_res_git.git
+	url = https://github.com/richMetellus/TI_res_git.git
 [submodule "Boards_SoCs_SoMs/byVendor/ST_res_git"]
 	path = Boards_SoCs_SoMs/byVendor/ST_res_git
-	url = git@github.com:richMetellus/ST_res_git.git
+	url = https://github.com/richMetellus/ST_res_git.git
 [submodule "Boards_SoCs_SoMs/byVendor/Microchip_res_git"]
 	path = Boards_SoCs_SoMs/byVendor/Microchip_res_git
-	url = git@github.com:richMetellus/Microchip_res_git.git
+	url = https://github.com/richMetellus/Microchip_res_git.git
 [submodule "Boards_SoCs_SoMs/byVendor/Xilinx_res_git"]
 	path = Boards_SoCs_SoMs/byVendor/Xilinx_res_git
-	url = git@github.com:richMetellus/Xilinx_res_git.git
+	url = https://github.com/richMetellus/Xilinx_res_git.git
