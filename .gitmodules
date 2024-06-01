@@ -16,3 +16,6 @@
 [submodule "Boards_SoCs_SoMs/byVendor/Xilinx_res_git"]
 	path = Boards_SoCs_SoMs/byVendor/Xilinx_res_git
 	url = https://github.com/richMetellus/Xilinx_res_git.git
+[submodule "Boards_SoCs_SoMs/byVendor/AllegroMicroSystems_res_git"]
+	path = Boards_SoCs_SoMs/byVendor/AllegroMicroSystems_res_git
+	url = https://github.com/richMetellus/AllegroMicroSystems_res_git.git
