@@ -31,3 +31,6 @@
 [submodule "Boards_SoCs_SoMs/byVendor/LIC-CIM_res_g"]
 	path = Boards_SoCs_SoMs/byVendor/LIC-CIM_res_g
 	url = https://github.com/richMetellus/LIC-CIM_res_g.git
+[submodule "Boards_SoCs_SoMs/byVendor/SchneiderElectric_res_g"]
+	path = Boards_SoCs_SoMs/byVendor/SchneiderElectric_res_g
+	url = https://github.com/richMetellus/SchneiderElectric_res_g.git
